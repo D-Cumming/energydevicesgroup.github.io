@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-GB"
+locale                   : "en-US"
 title                    : "Electrode Innovation Group "
 title_separator          : "-"
 name                     : &name "Denis Cumming"
@@ -24,7 +24,7 @@ author: Denis Cumming
   avatar           : "images/Logo/EIG_black.png"
   name             : "Electrode Inovation Group"
   pronouns         : # example: "she/her"  
-  bio              : "Research and teaching academic | Advanced Electrode Manufacturing | Energy Storage | Functional Materials"
+  bio              : "Research and teaching academic ¦ Advanced Electrode Manufacturing ¦ Energy Storage ¦ Functional Materials"
   location         : "Delocalized"
   employer         : "University of Sheffield"
   uri              : # URL
