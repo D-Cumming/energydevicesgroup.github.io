@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-GB"
-title                    : "Energy Devices Group "
+title                    : "Electrode Innovation Group "
 title_separator          : "-"
 name                     : &name "Denis Cumming"
 description              : &description "personal description"
@@ -22,7 +22,7 @@ repository               : "/energydevicesgroup.github.io/"
 author:
   # Biographic information
   avatar           : "images/headshots/DJC_photo_for general use.jpg"
-  name             : "Energy Devices Group"
+  name             : "Electrode Inovation Group"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Sheffield"
@@ -31,12 +31,13 @@ author:
   email            : "" 
 
   # Academic websites
+  Scopus           : "https://www.scopus.com/authid/detail.uri?authorId=12140012900"
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
-  semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com/citations?user=iLuAVY4AAAAJ&hl=en"
+  #impactstory      : # URL
+  orcid            : "https://orcid.org/0000-0003-1923-2250"
+  #semantic         : # URL
+  #pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
 
   # Repositories and software development
