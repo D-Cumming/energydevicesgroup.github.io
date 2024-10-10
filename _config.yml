@@ -21,11 +21,11 @@ repository               : "/energydevicesgroup.github.io/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/headshots/DJC_photo_for general use.jpg"
+  avatar           : "/images/Logo/EIG_black.png"
   name             : "Electrode Inovation Group"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Sheffield"
+  location         : "Delocalized"
   employer         : "University of Sheffield"
   uri              : # URL
   email            : "" 
