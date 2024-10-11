@@ -14,7 +14,6 @@ My research takes place at the interface between materials and manufacturing, en
 Our current challenge is on how to design new types of battery electrode structures, quantify their behaviour and probe the fundamental processes that govern their operation and the processes used to make them. This involves material and process development as well as in-situ and operando techniques to investigate changes in morphology and function.
 
 <h2>Research Areas</h2>
-___
 <h3>Battery Electrode Manufacturing</h3>
 <ul>
   <li>Dry battery electrode powder processing and electrode deposition</li>
