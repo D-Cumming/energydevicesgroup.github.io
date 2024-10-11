@@ -24,10 +24,10 @@ author: #Denis Cumming
   avatar           : "images/EIG_black.png"
   name             : "Electrode Inovation Group"
   pronouns         : # example: "she/her"  
-  bio              : "Research and teaching academic ¦ Advanced Electrode Manufacturing ¦ Energy Storage ¦ Functional Materials"
+  bio              : "Research and teaching academic | Advanced Electrode Manufacturing | Energy Storage | Functional Materials"
   location         : "Delocalized"
-  employer         : #"University of Sheffield"
-  uri              : # URL
+  employer         : "University of Sheffield"
+  uri              : "https://www.sheffield.ac.uk/cmbe/people/cbe-academic-staff/denis-cumming"
   email            : "" 
 
   # Academic websites
