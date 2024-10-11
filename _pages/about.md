@@ -17,7 +17,9 @@ Our current challenge is on how to design new types of battery electrode structu
 ======
 Research Areas
 ======
+------
 Battery Electrode Manufacturing
+------
 - Dry battery electrode powder processing and electrode deposition
 - Long and short range behaviour of additives
 - Novel Cooperative Agglomerate
