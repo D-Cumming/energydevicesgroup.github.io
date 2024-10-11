@@ -15,10 +15,10 @@ Our current challenge is on how to design new types of battery electrode structu
 
 
 ___
-<h2>Research Areas<h2>
+<h2>Research Areas</h2>
 ___
 
-<h3>Battery Electrode Manufacturing<h3>
+<h3>Battery Electrode Manufacturing</h3>
 <ul>
   <li>Dry battery electrode powder processing and electrode deposition</li>
   <li>Long and short range behaviour of additives</li>
