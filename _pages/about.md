@@ -14,14 +14,15 @@ My research takes place at the interface between materials and manufacturing, en
 Our current challenge is on how to design new types of battery electrode structures, quantify their behaviour and probe the fundamental processes that govern their operation and the processes used to make them. This involves material and process development as well as in-situ and operando techniques to investigate changes in morphology and function.
 
 
-======
-Research Areas
-======
-------
-Battery Electrode Manufacturing
-------
-- Dry battery electrode powder processing and electrode deposition
-- Long and short range behaviour of additives
-- Novel Cooperative Agglomerate
-- Advanced Compaction Modelling
-------
+___
+<h2>Research Areas<h2>
+___
+
+<h3>Battery Electrode Manufacturing<h3>
+<ul>
+  <li>Dry battery electrode powder processing and electrode deposition</li>
+  <li>Long and short range behaviour of additives</li>
+  <li>Novel Cooperative Agglomerate</li>
+  <li>Advanced Compaction Modelling</li>
+</ul>
+
