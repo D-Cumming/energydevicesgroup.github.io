@@ -21,7 +21,7 @@ repository               : "/energydevicesgroup.github.io/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author: #Denis Cumming
   # Biographic information
-  avatar           : "images/original/bio-photo-2.jpg"
+  avatar           : "images/EIG_black.png"
   name             : "Electrode Inovation Group"
   pronouns         : # example: "she/her"  
   bio              : "Research and teaching academic ¦ Advanced Electrode Manufacturing ¦ Energy Storage ¦ Functional Materials"
