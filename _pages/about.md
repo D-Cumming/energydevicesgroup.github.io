@@ -22,4 +22,4 @@ Our current challenge is on how to design new types of battery electrode structu
   <li>Advanced Compaction Modelling</li>
 </ul>
 
-![Alt text](/Logo/EIG_black.png "a title")
+![Alt text](/images/Logo/EIG_black.png "group logo")
