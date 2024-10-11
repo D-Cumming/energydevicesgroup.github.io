@@ -21,7 +21,7 @@ repository               : "/energydevicesgroup.github.io/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author: #Denis Cumming
   # Biographic information
-  avatar           : "/images/DJC_photo_for general use.jpg"
+  avatar           : "DJC_photo_for general use.jpg"
   name             : "Denis Cumming - Group Leader"
   pronouns         : # example: "she/her"  
   bio              : "Research and teaching academic | Advanced Electrode Manufacturing | Energy Storage | Functional Materials"
