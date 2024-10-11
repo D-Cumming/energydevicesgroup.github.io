@@ -10,8 +10,8 @@
 locale                   : "en-US"
 title                    : "Electrode Innovation Group "
 title_separator          : "-"
-name                     : &name "Denis Cumming"
-description              : &description "personal description"
+name                     :# &name "Denis Cumming"
+description              :# &description "personal description"
 url                      : https://d-cumming.github.io/energydevicesgroup.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "/energydevicesgroup.github.io/"
@@ -21,12 +21,12 @@ repository               : "/energydevicesgroup.github.io/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author: Denis Cumming
   # Biographic information
-  avatar           : "images/Logo/EIG_black.png"
+  avatar           : #"images/Logo/EIG_black.png"
   name             : "Electrode Inovation Group"
   pronouns         : # example: "she/her"  
-  bio              : "Research and teaching academic ¦ Advanced Electrode Manufacturing ¦ Energy Storage ¦ Functional Materials"
-  location         : "Delocalized"
-  employer         : "University of Sheffield"
+  bio              : #"Research and teaching academic ¦ Advanced Electrode Manufacturing ¦ Energy Storage ¦ Functional Materials"
+  location         : #"Delocalized"
+  employer         : #"University of Sheffield"
   uri              : # URL
   email            : "" 
 
